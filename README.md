@@ -1,163 +1,193 @@
-# 🌐 **Sam Tatapudi**
+<div align="center">
+
+# 🌐 Sam Tatapudi
 
 ### DevOps Engineer • Cloud Security • AI Builder • M.Tech @ BITS Pilani
 
-::: {align="center"}
-A modern, interactive landing-page style README.\
-Minimal. Aesthetic. Professional. Gen-Z energy without chaos.
-:::
+*A modern, interactive landing-page style README.*  
+*Minimal. Aesthetic. Professional. Gen-Z energy without chaos.*
 
-------------------------------------------------------------------------
+---
 
-# 🏠 **Home**
+</div>
 
-::: {align="center"}
-### "I build systems, secure them, automate them, and break them only to rebuild better."
-:::
+<div align="center">
 
-```{=html}
+## 🏠 Home
+
+### _"I build systems, secure them, automate them, and break them only to rebuild better."_
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/DevOps-Engineer-4ade80?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Security-Enthusiast-3b82f6?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/AI-Builder-f472b6?style=for-the-badge"/>`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/DevOps-Engineer-4ade80?style=for-the-badge" alt="DevOps Engineer"/>
+  <img src="https://img.shields.io/badge/Security-Enthusiast-3b82f6?style=for-the-badge" alt="Security Enthusiast"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge" alt="AWS Cloud"/>
+  <img src="https://img.shields.io/badge/AI-Builder-f472b6?style=for-the-badge" alt="AI Builder"/>
 </p>
-```
 
-------------------------------------------------------------------------
+</div>
 
-# 🚀 **About Me**
+---
+
+## 🚀 About Me
 
 I'm **Sam**, a DevOps & Security engineer who loves:
 
--   Building cloud-native systems\
--   Securing identity workflows\
--   Automating anything repeatable\
--   Experimenting with AI & encryption\
--   Waking up at 3 AM like it's a personality trait
+- 🔧 Building cloud-native systems
+- 🔐 Securing identity workflows
+- ⚙️ Automating anything repeatable
+- 🤖 Experimenting with AI & encryption
+- 🌅 Waking up at 3 AM like it's a personality trait
 
-Currently pursuing **M.Tech in Computing Science & Infrastructure @ BITS
-Pilani**.
+Currently pursuing **M.Tech in Computing Science & Infrastructure @ BITS Pilani**.
 
-------------------------------------------------------------------------
+---
 
-# 🧭 **Navigation**
+## 🧭 Navigation
 
-Click any section to explore:
+<div align="center">
 
--   [👨‍💻 Skills](#-skills)
--   [🛠 Projects](#-projects)
--   [📚 Learning](#-learning)
--   [🎛 Interactive Dashboard](#-interactive-dashboard)
--   [📊 Stats](#-stats)
--   [⚡ Fun Facts](#-fun-facts)
--   [📬 Contact](#-contact)
+| Jump to Section |
+|:---:|
+| [👨‍💻 Skills](#-skills) • [🛠 Projects](#-projects) • [📚 Learning](#-learning) |
+| [🎛 Interactive Dashboard](#-interactive-dashboard) • [📊 Stats](#-stats) • [⚡ Fun Facts](#-fun-facts) |
+| [📬 Contact](#-contact) |
 
-------------------------------------------------------------------------
+</div>
 
-# 👨‍💻 Skills
+---
 
-## 🛠 DevOps & Infra
+## 👨‍💻 Skills
 
--   AWS (EC2, VPC, IAM, CloudWatch)\
--   Docker, Jenkins, GitHub Actions\
--   CI/CD automation\
--   Linux & shell scripting
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🔐 Security
+### 🛠 DevOps & Infra
+- AWS (EC2, VPC, IAM, CloudWatch)
+- Docker, Jenkins, GitHub Actions
+- CI/CD automation
+- Linux & shell scripting
 
--   CyberArk\
--   SAML, SCIM, MFA\
--   Certificates, RADIUS, EAP-TLS\
--   Network security
+</td>
+<td width="33%" valign="top">
 
-## 🧑‍💻 Development
+### 🔐 Security
+- CyberArk
+- SAML, SCIM, MFA
+- Certificates, RADIUS, EAP-TLS
+- Network security
 
--   Python\
--   FastAPI, Django, Flask\
--   SQL\
--   REST APIs
+</td>
+<td width="33%" valign="top">
 
-------------------------------------------------------------------------
+### 🧑‍💻 Development
+- Python
+- FastAPI, Django, Flask
+- SQL
+- REST APIs
 
-# 🛠 Projects
+</td>
+</tr>
+</table>
 
-### 🔐 **PhishNet**
+---
 
-A real-time phishing detection Chrome extension.\
-**Tech:** JS, security APIs\
-**Status:** Building
+## 🛠 Projects
 
-------------------------------------------------------------------------
+<details open>
+<summary><b>🔐 PhishNet</b></summary>
+<br>
+A real-time phishing detection Chrome extension.<br>
+<b>Tech:</b> JS, security APIs<br>
+<b>Status:</b> 🚧 Building
+</details>
 
-### 🔑 **Local Password Vault**
+<details>
+<summary><b>🔑 Local Password Vault</b></summary>
+<br>
+A fully local, encrypted password manager.<br>
+<b>Features:</b> MFA, encryption, local-first design
+</details>
 
-A fully local, encrypted password manager.\
-**Features:** MFA, encryption, local-first design
+<details>
+<summary><b>📡 Wi-Fi Certificate Authentication</b></summary>
+<br>
+Enterprise-grade EAP-TLS auth system.<br>
+<b>Tech:</b> RADIUS, certificates
+</details>
 
-------------------------------------------------------------------------
-
-### 📡 **Wi-Fi Certificate Authentication**
-
-Enterprise-grade EAP-TLS auth system.\
-**Tech:** RADIUS, certificates
-
-------------------------------------------------------------------------
-
-### 🤖 **WhatsApp → ChatGPT Integration**
-
+<details>
+<summary><b>🤖 WhatsApp → ChatGPT Integration</b></summary>
+<br>
 Custom bot for automated workflows and AI responses.
+</details>
 
-------------------------------------------------------------------------
-
-### 💻 **VS Code AI Extension**
-
+<details>
+<summary><b>💻 VS Code AI Extension</b></summary>
+<br>
 Smart AI-powered workflows inside VS Code.
+</details>
 
-------------------------------------------------------------------------
+---
 
-# 📚 Learning
+## 📚 Learning
 
-Actively leveling up in:
+<div align="center">
 
--   Cloud Security\
--   Encryption systems\
--   Data Science (BITS WILP)\
--   Hebrew\
--   Advanced DevOps patterns
+```mermaid
+mindmap
+  root((Sam's Learning))
+    Cloud Security
+    Encryption Systems
+    Data Science
+      BITS WILP
+    Hebrew
+    Advanced DevOps
+```
 
-------------------------------------------------------------------------
+</div>
 
-# 🎛 Interactive Dashboard
+**Currently leveling up in:**
+- ☁️ Cloud Security
+- 🔐 Encryption systems
+- 📊 Data Science (BITS WILP)
+- 🗣️ Hebrew
+- 🚀 Advanced DevOps patterns
 
-::: {align="center"}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Action                              Button
-  ----------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  View Projects                       `<a href="https://github.com/samueltatapudi-dev?tab=repositories">`{=html}`<img src="https://img.shields.io/badge/OPEN-Projects-4ade80?style=for-the-badge">`{=html}`</a>`{=html}
+---
 
-  Email Me                            `<a href="mailto:ADD-YOUR-EMAIL">`{=html}`<img src="https://img.shields.io/badge/EMAIL-Me-3b82f6?style=for-the-badge">`{=html}`</a>`{=html}
+## 🎛 Interactive Dashboard
 
-  Follow Me                           `<a href="https://github.com/samueltatapudi-dev">`{=html}`<img src="https://img.shields.io/badge/FOLLOW-@samueltatapudi--dev-f59e0b?style=for-the-badge">`{=html}`</a>`{=html}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+<div align="center">
 
-------------------------------------------------------------------------
+| Action | Link |
+|:---:|:---:|
+| 📁 **View Projects** | [![Projects](https://img.shields.io/badge/OPEN-Projects-4ade80?style=for-the-badge)](https://github.com/samueltatapudi-dev?tab=repositories) |
+| 📧 **Email Me** | [![Email](https://img.shields.io/badge/EMAIL-Me-3b82f6?style=for-the-badge)](mailto:your.email@example.com) |
+| 👤 **Follow Me** | [![Follow](https://img.shields.io/badge/FOLLOW-@samueltatapudi--dev-f59e0b?style=for-the-badge)](https://github.com/samueltatapudi-dev) |
 
-# 📊 Stats
+</div>
 
-::: {align="center"}
-`<img height="160" src="https://github-readme-stats.vercel.app/api?username=samueltatapudi-dev&show_icons=true&theme=tokyonight&hide_border=true" />`{=html}
-`<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltatapudi-dev&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
-:::
+---
 
-------------------------------------------------------------------------
+## 📊 Stats
 
-# ⚡ Fun Facts
+<div align="center">
 
-``` yaml
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueltatapudi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltatapudi-dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltatapudi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+<div align="center">
+
+```yaml
 wake_up_time: "03:00 AM"
 languages_learning:
   - Hebrew
@@ -174,16 +204,22 @@ building:
 known_for: "talking a lot & automating everything"
 ```
 
-------------------------------------------------------------------------
+</div>
 
-# 📬 Contact
+---
 
-**GitHub:** @samueltatapudi-dev\
-**Email:** Add your email
+## 📬 Contact
 
-------------------------------------------------------------------------
+<div align="center">
 
-::: {align="center"}
-Thanks for visiting my landing-page README.\
-Have a great day --- or night --- depending on your timezone.
-:::
+**GitHub:** [@samueltatapudi-dev](https://github.com/samueltatapudi-dev)  
+**Email:** your.email@example.com
+
+---
+
+<sub>Thanks for visiting my landing-page README.</sub>  
+<sub>Have a great day — or night — depending on your timezone.</sub>
+
+<img src="https://komarev.com/ghpvc/?username=samueltatapudi-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
